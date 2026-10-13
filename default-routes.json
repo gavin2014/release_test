@@ -1,0 +1,6 @@
+[
+  {"id":"gh-proxy","name":"GH-Proxy","template":"https://gh-proxy.org/{url}","enabled":true},
+  {"id":"ghproxy-net","name":"GHProxy.net","template":"https://ghproxy.net/{url}","enabled":true},
+  {"id":"ghfast","name":"GHFast","template":"https://ghfast.top/{url}","enabled":true},
+  {"id":"gh-proxy-com","name":"GH-Proxy 备用入口","template":"https://gh-proxy.com/{url}","enabled":true}
+]
